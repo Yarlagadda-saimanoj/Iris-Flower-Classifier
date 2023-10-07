@@ -1,0 +1,6 @@
+pip install --upgrade streamlit
+pip install --upgrade joblib
+pip install --upgrade pandas
+pip install --upgrade scikit-learn
+pip install --upgrade matplotlib
+pip install --upgrade seaborn
