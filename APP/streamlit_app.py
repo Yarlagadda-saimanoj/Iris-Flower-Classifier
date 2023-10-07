@@ -4,9 +4,9 @@ import pandas as pd
 import numpy as np
 import sklearn
 
-model = joblib.load('iris_log_model.joblib')
+model = joblib.load('APP/iris_log_model.joblib')
 
-st.title('Iris Flower Classifier')
+st.title('APP/Iris Flower Classifier')
 image = st.image('flowers.png', use_column_width=True)
 
 sepal_length = st.slider('Sepal Length (cm)', 0.0, 10.0)
