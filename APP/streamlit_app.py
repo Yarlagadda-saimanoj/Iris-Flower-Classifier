@@ -7,7 +7,7 @@ import sklearn
 model = joblib.load('APP/iris_log_model.joblib')
 
 st.title('APP/Iris Flower Classifier')
-image = st.image('flowers.png', use_column_width=True)
+image = st.image('APP/flowers.png', use_column_width=True)
 
 sepal_length = st.slider('Sepal Length (cm)', 0.0, 10.0)
 sepal_width = st.slider('Sepal Width (cm)', 0.0, 10.0)
