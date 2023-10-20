@@ -1,5 +1,5 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]((https://github.com/Yarlagadda-saimanoj/Iris-Flower-Classifier/blob/main/LICENSE))
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Yarlagadda-saimanoj/Iris-Flower-Classifier/blob/main/LICENSE)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iris-flower-classifier-saimanoj-yarlagadda.streamlit.app/)
 # Iris Flower Classifier
 
